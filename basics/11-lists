@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . ../ /bioot
+ls -la . .. /boot
