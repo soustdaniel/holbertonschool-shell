@@ -1,0 +1,2 @@
+#!/bin/bash
+alias nombre_del_alias='comando_a_ejecutar'; source ~/.bashrc
